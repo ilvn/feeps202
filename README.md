@@ -20,9 +20,9 @@ and fits in just 7 tweets.
 
 The original implementation of TweetFIPS202 is in the [9t](9t) folder.
 
-You can verify all three implementations with the provided test
-program. Use `make 9`, `make 8` or `make 7` to build a specific
-implementation or simply `make` to build all three at once.
+You can verify all three verisons by the provided test
+program. Use `make 9`, `make 8` or `make 7` to build a particular
+implementation or only `make` to build all three at once.
 
 That's all I have to say about that.
 
