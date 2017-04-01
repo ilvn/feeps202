@@ -3,7 +3,7 @@
 
 There is no better time to fool around for couple hours than
 the April Fool's day. Let's have some fun messing around with
-(@TweetFIPS202)[https://twitter.com/TweetFIPS202].
+[TweetFIPS202](https://twitter.com/TweetFIPS202).
 
 The guys did a great job on implementing and squeezing SHA-3
 into just nine tweets. However, there is still room for
@@ -27,4 +27,4 @@ implementation or simply `make` to build all three at once.
 That's all I have to say about that.
 
 SHA-3 in 7 tweets is also available at
-[@feeps202](https://twitter.com/feeps202)
+[FEEPS202](https://twitter.com/feeps202)
